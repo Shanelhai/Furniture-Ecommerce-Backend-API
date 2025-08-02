@@ -1,0 +1,6 @@
+@FurnitureBackEnd_HostAddress = http://localhost:5070
+
+GET {{FurnitureBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
