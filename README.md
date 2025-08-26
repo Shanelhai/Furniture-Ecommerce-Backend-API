@@ -1,5 +1,10 @@
  API Introduction
 The Furniture Website API is a RESTful service built with ASP.NET Core Web API that powers the backend of a modern furniture e-commerce platform. It enables clients—such as web frontends or mobile apps—to manage furniture orders and carpenter bookings efficiently and securely.
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/1.PNG)
+
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/2.PNG)
+
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/22.PNG)
 
 
 Key Objectives
@@ -30,8 +35,15 @@ A modern **Furniture Website** backend built with **ASP.NET Core Web API** featu
 
 - **Order Booking:** Customers can place orders for furniture.
 - **Carpenter Booking:** Customers can book carpenters for custom furniture or repair services.
-
 ---
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/55.PNG)
+
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/56.PNG)
+
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/57.PNG)
+
+![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/179dc31c250bfa3cc160418ca70f1ac43722e333/58.PNG)
+
 
 ## 🚀 Features
 
