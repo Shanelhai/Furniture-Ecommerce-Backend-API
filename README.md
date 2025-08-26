@@ -1,6 +1,6 @@
  API Introduction
 The Furniture Website API is a RESTful service built with ASP.NET Core Web API that powers the backend of a modern furniture e-commerce platform. It enables clients—such as web frontends or mobile apps—to manage furniture orders and carpenter bookings efficiently and securely.
-![image alt](https://github.com/Shanelhai/Furniture-Ecommerce-Backend-API/blob/9c1a58d717e335f1d0085fdbc39d90dc30f4f313/%F0%9F%93%84%20Project%20BackEnd%20File.pdf)
+
 
 Key Objectives
 Provide endpoints to browse, order, and manage furniture products.
